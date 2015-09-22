@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+==============
+
+Hi humans,
+
+Ashwinder here, I like web designing and development.
